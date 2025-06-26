@@ -1,1 +1,2 @@
-Link do app: https://curriculointerativo.streamlit.app/
+Aplicativo criado para auxiliar estudantes de Engenharia Elétrica a acompanharem a grade curricular do curso, visualizando de forma clara as dependências entre as disciplinas a serem cursadas. Este projeto foi iniciado com o objetivo de aprimorar minhas habilidades em desenvolvimento de aplicativos, com foco em manipulação de dados, Python e design thinking. O app é gratuito e de código aberto, com o intuito de contribuir com a comunidade acadêmica e incentivar o desenvolvimento colaborativo.
+    Link do app: https://curriculointerativo.streamlit.app/
